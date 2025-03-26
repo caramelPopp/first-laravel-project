@@ -7,7 +7,7 @@
 <body>
     <h3>Ajuda</h3><br>
     <ul>
-        <li><a href="/main">Principal</a></li>
+        <li><a href="/">Principal</a></li>
         <li><a href="/aboutus">Sobre nós</a></li>
         <li><a href="/contacts">Contatos</a></li>
         <li><a href="/congrats">Agradecimentos</a></li>
