@@ -6,23 +6,23 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 class MainController extends Controller {
-    public function main() {
-        return view('pages.mainpage');
+    public static function main() {
+        return view('pages.main');
     }
 
-    public function aboutus() {
+    public static function aboutus() {
         return view('pages.aboutus');
     }
 
-    public function contact() {
+    public static function contact() {
         return view('pages.contact');
     }
 
-    public function help() {
+    public static function help() {
         return view('pages.help');
     }
 
-    public function congrats() {
+    public static function congrats() {
         return view('pages.congrats');
     }
 }
