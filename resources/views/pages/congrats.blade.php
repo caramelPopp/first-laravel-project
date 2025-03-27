@@ -9,7 +9,7 @@
     <ul>
         <li><a href="/">Principal</a></li>
         <li><a href="/aboutus">Sobre nós</a></li>
-        <li><a href="/contacts">Contatos</a></li>
+        <li><a href="/contact">Contatos</a></li>
         <li><a href="/help">Ajuda</a></li>
     </ul>
 </body>

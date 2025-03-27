@@ -8,7 +8,7 @@
     <h3>Principal</h3><br>
     <ul>
         <li><a href="/aboutus">Sobre nós</a></li>
-        <li><a href="/contacts">Contatos</a></li>
+        <li><a href="/contact">Contatos</a></li>
         <li><a href="/congrats">Agradecimentos</a></li>
         <li><a href="/help">Ajuda</a></li>
     </ul>
